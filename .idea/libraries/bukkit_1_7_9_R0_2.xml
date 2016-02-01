@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bukkit-1.7.9-R0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Minecraft Eclipse/Ref. Libraries/bukkit-1.7.9-R0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://hub.spigotmc.org/javadocs/bukkit/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/Minecraft Eclipse/Ref. Libraries/bukkit-1.7.9-R0.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
