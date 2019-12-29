@@ -1,6 +1,6 @@
 name: FakePlayerFix
 main: com.blackace.fakeplayerfix.FakePlayerFix
-version: 2.0
+version: 2.3
 commands:
   fakeplayer:
     description: Admin only command

@@ -44,7 +44,10 @@ public class FakePlayerFix extends JavaPlugin {
     private void createConfig(){
         config.create(PathReference.PlacePassthroughList, new String[]{"FakePlayer1","FakePlayer2","FakePlayer3"});
         config.create(PathReference.BreakPassthroughList, new String[]{"FakePlayer1","FakePlayer2","FakePlayer3"});
+        config.create(PathReference.UsePassthroughList, new String[]{"FakePlayer1","FakePlayer2","FakePlayer3"});
+        config.create(PathReference.DamagePassthroughList, new String[]{"FakePlayer1","FakePlayer2","FakePlayer3"});
         config.create(PathReference.Debug, false);
+        config.create(PathReference.PvP, false);
         config.saveConfig();
     }
 
